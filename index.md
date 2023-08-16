@@ -12,3 +12,5 @@ Un aspecto clave de mi personalidad es mi gusto por el trabajo en equipo. Me enc
 Lo que realmente me apasiona es el diseño y la arquitectura de aplicaciones. Tengo una sólida base en esta área y me emociona enfrentar desafíos complejos para crear soluciones eficientes y elegantes.Estableciendo la estructura de sistemas escalables, siempre busco maximizar el valor y la calidad en cada proyecto en el que me involucro.
 
 Además, mi experiencia previa en desarrollo de software me ha proporcionado una comprensión profunda de los procesos y flujos de trabajo necesarios para llevar las ideas desde la concepción hasta la implementación exitosa.
+
+[Mis contactos](/pages/contact.md)
