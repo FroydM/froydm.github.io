@@ -4,7 +4,7 @@ title: Froyd Marchena Loria Web site
 tagline: Welcome to my website
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
-![Texto alternativo](user.jpg)
+![Texto alternativo](user.jpg){:.user-image}
 ¡Hola! Soy Froyd Marchena, un entusiasta estudiante de la Carrera de Tecnologías de Información. Mi pasión por el mundo de la tecnología me llevó a especializarme en desarrollo de software previamente. Como amante del aprendizaje constante, siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
 
 Un aspecto clave de mi personalidad es mi gusto por el trabajo en equipo. Me encanta colaborar con otros, compartir ideas y contribuir a proyectos conjuntos. Mi enfoque proactivo y autodidacta me impulsa a explorar soluciones creativas y a mantenerme actualizado en un campo tan dinámico como la tecnología.

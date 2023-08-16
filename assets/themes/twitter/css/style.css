@@ -1,4 +1,8 @@
 /* Custom container */
+.user-image {
+  border-radius: 50%;
+  size: 120px;
+}
 .container-narrow {
   margin: 0 auto;
   max-width: 700px; }
